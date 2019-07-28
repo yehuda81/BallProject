@@ -1,0 +1,9 @@
+C:\Users\yudal\source\repos\PopBall\PopBall\bin\Debug\PopBall.exe
+C:\Users\yudal\source\repos\PopBall\PopBall\bin\Debug\PopBall.pdb
+C:\Users\yudal\source\repos\PopBall\PopBall\obj\Debug\PopBall.csprojAssemblyReference.cache
+C:\Users\yudal\source\repos\PopBall\PopBall\obj\Debug\PopBall.Form1.resources
+C:\Users\yudal\source\repos\PopBall\PopBall\obj\Debug\PopBall.Properties.Resources.resources
+C:\Users\yudal\source\repos\PopBall\PopBall\obj\Debug\PopBall.csproj.GenerateResource.cache
+C:\Users\yudal\source\repos\PopBall\PopBall\obj\Debug\PopBall.csproj.CoreCompileInputs.cache
+C:\Users\yudal\source\repos\PopBall\PopBall\obj\Debug\PopBall.exe
+C:\Users\yudal\source\repos\PopBall\PopBall\obj\Debug\PopBall.pdb
